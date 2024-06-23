@@ -1,0 +1,35 @@
+
+
+POST => Register New 
+
+https://prnt.sc/aBFnpqOc1FSS
+
+pass data in body
+
+
+=======================
+
+POST Login 
+
+https://prnt.sc/b5WTIK371fiB
+
+pass data in body
+
+============================
+
+GET => Delete all users from db
+
+https://prnt.sc/EWGPdTsMIiJJ
+
+
+
+
+=====================
+
+GET =>  https://prnt.sc/f7o0cKT1lXSj
+
+you can verify token every time by passing the token which you store on front-end
+so it means you can check on frontend token is expired or not valid or not before component WebGL2RenderingContext
+
+after login token will expire after 1hrs so you can use this route if error you can simply redirect on login page on frontend
+
